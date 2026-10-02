@@ -32,6 +32,12 @@ In short: agents cannot reach each other, production, or the outside except thro
 
 This project is **not** about quantum computers. The name borrows from quantum mechanics as a metaphor — proposals exist in *superposition* as possibilities until the Observer collapses them into decisions. This is an AI-agent containment and controlled-observation architecture.
 
+## The business card
+
+The Quantum Sandbox, on a card — what the box is and what it promises:
+
+![PhantomX Quantum Sandbox business card](assets/phantomx-card-v9-back.png)
+
 ## License
 
 This work is made available under the Creative Commons Attribution 4.0 International License (CC BY 4.0) — **pending the author's final word** on licensing before publication. See [LICENSE](LICENSE).
