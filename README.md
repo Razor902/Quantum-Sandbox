@@ -2,7 +2,7 @@
 
 **Author:** Curtis Ray Dyess
 **Date:** 2026-09-26
-**License:** Creative Commons Attribution 4.0 (CC BY 4.0) — pending author's final word; see [LICENSE](LICENSE)
+**License:** Proprietary — © 2026 Curtis Ray Dyess / PhantomX. All rights reserved. See [LICENSE](LICENSE) and [WATERMARK](WATERMARK.md).
 
 ## What this is
 
@@ -23,7 +23,8 @@ In short: agents cannot reach each other, production, or the outside except thro
 
 - `quantum-sandbox-blueprints.pdf` — The full 17-sheet enterprise blueprint proposal: subsystem schematics (Cell, Superposition, Observer, Ledger), containment controls, 32 enterprise advantages, a pilot plan, standards alignment, and references.
 - `quantum-sandbox-interactive.html` — An interactive companion: clickable component schematics, a walkthrough following proposal Q-17 through the whole system, and a "try to escape the sandbox" challenge with eight escape routes — every one fails closed.
-- `LICENSE` — License terms (CC BY 4.0, pending author's final word).
+- `LICENSE` — Proprietary license terms (all rights reserved).
+- `WATERMARK.md` — Authorship watermark: whose hands built the box.
 - `PUBLISHED.md` — Publication status.
 
 ## A note on the name
