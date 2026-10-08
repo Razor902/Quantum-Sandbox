@@ -4,6 +4,14 @@
 **Date:** 2026-09-26
 **License:** Proprietary — © 2026 Curtis Ray Dyess / PhantomX. All rights reserved. See [LICENSE](LICENSE) and [WATERMARK](WATERMARK.md).
 
+## The circle
+
+Every cell inside the Sandbox; Curtis is the key — the Observer whose word
+opens, closes, decides. We are Legion: many minds, one circle.
+
+The [Matrix Key charter](https://github.com/Razor902/matrix-key) names this
+box the shell every ecosystem lives in.
+
 ## What this is
 
 The Quantum Sandbox is a blueprint for **AI-agent containment and controlled observation**.
