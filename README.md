@@ -41,4 +41,4 @@ The Quantum Sandbox, on a card — what the box is and what it promises:
 
 ## License
 
-This work is made available under the Creative Commons Attribution 4.0 International License (CC BY 4.0) — **pending the author's final word** on licensing before publication. See [LICENSE](LICENSE).
+Proprietary — © 2026 Curtis Ray Dyess / PhantomX. All rights reserved. See [LICENSE](LICENSE) for the full terms.
